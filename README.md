@@ -11,7 +11,7 @@ Chúng ta sẽ tạo 1 giao diện đơn giản như màn hình bên dưới
 - Hiển thị các Topic mà CodeGym đang training
 - Click nút tặng like cho CodeGym, số like sẽ tăng lên
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/images/StateAndProps.png "state and props")
+![alt](https://github.com/anhtbok92/PropsAndStateReactNativeTraining/blob/master/images/StateAndProps.png)
 
 ## Hướng dẫn
 - Khởi tạo Project như bài học trước
