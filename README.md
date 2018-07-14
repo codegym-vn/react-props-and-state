@@ -15,5 +15,5 @@ Chúng ta sẽ tạo 1 giao diện đơn giản như màn hình bên dưới
 
 ## Hướng dẫn
 - Khởi tạo Project như bài học trước
-- Tạo 1 component : <Topic />, sử dụng Props trong Topic, được truyền từ Component cha
+- Tạo 1 component : <Topic /> sử dụng Props trong Topic, được truyền từ Component cha
 - Khởi tạo state từ component cha, tăng số like khi user click vào button tặng like
