@@ -1,3 +1,5 @@
+# react-props-and-state
+Mã nguồn react-props-and-state được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 ## Mục tiêu của bài tập
 - Biết cách sử dụng truyền Props từ component A sang component B
 - Biết cách sử dụng State, thay đổi State với phương thức SetState
